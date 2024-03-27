@@ -1,1 +1,2 @@
 # Dashboard-Power-BI
+Creating a dashboard related to sales by the segment in the form of bar chart in this project i determent the segment into the segment of payment method, orders by month in the form of area chart, total category growth by year in the form of card chart that show the total category growth by year in number, and the last part is creating the last chart like the previous that is in the form of card chart that show the total segment growth by year in number.
